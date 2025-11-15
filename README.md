@@ -151,4 +151,4 @@ Total Profit = SUM(Orders[Profit])
 - Data Visualization Best Practices
 
 
-![Dashboard Overview](./DashboardOverview.png)
+![Dashboard Overview](./DashboardOverview.gif)
